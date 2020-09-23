@@ -1,20 +1,8 @@
-### Hi there 👋  I'm Akshay.
-- 🔰  CS Student & Tech Enthusiast.
-- 🔰  Learning Coding Thru Coding 👨🏼‍💻.
-- ❗️  Can't Code without Music.
-- `✅ Making Mistakes is Better than Faking Perfections.`
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Akshay</h1>
 
-<!--
-**akshayitzme/akshayitzme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>🔰  CS Student & Tech Enthusiast.</p>
+<p> 🔰  Learning Coding Thru Coding 👨🏼‍💻.</p>
+<p>❗️  Can't Code without Music 🎶 .</p>
+`✅ Making Mistakes is Better than Faking Perfections.`
+<p>Reach Me On,</p>
+ <a href="https://t.me/coderitzme"><img src="https://www.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" width="45px"/></a> 
