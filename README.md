@@ -8,7 +8,7 @@
 <a href="https://t.me/coderitzme"><img src="https://www.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" width="45px"/></a>
 
 <p align="right">
- <p align="right">Know Something About,</p>  
+ <p align="right">Know Something of,</p>  
  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="40px" align="right" alt="mysql">
  <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" align="right" width="30px" alt="laravel">
  <img src="https://www.php.net/images/logos/new-php-logo.svg" align="right" width="40px" alt="php">
