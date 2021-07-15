@@ -5,7 +5,7 @@
 <p> ❗️  Can't Code without Music 🎶 .</p>
 <p> 💫 "Making Mistakes is Better than Faking Perfections."<p>
 <p><b>Reach Me On,</b></p>
-<a href="https://t.me/coderitzme"><img src="https://www.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png" width="45px"/></a>
+<a href="https://t.me/coderitzme"><img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="60px"/></a>
 
 <p align="right">
  <p align="right">Know Something of,</p>  
