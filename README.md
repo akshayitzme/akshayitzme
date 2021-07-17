@@ -18,6 +18,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" align="right" width="25px" alt="bootstrap">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" align="right" width="20px" alt="css3">
  <img src="https://cdn.freebiesupply.com/logos/large/2x/html5-logo-png-transparent.png" alt="html5" align="right" width="20px">
- <img src="https://www.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" align="right" width="30px">
+ <img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" align="right" width="30px">
 <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" align="right" width="30px" alt="c++">
 </p>
