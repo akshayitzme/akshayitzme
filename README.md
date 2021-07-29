@@ -8,9 +8,9 @@
 	<img src="https://img.shields.io/badge/👨‍💻️coding__is-life-blueviolet" />
 	<img src="https://gpvc.arturio.dev/akshayitzme"/>
 </div>
-
+<br/>
 <!-- Paragraph -->
-<p>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  
+<p><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></p>
 
 <!-- Contact -->
 <h3>Find me on,</h3>
