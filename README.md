@@ -34,7 +34,7 @@
 <div>
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayitzme&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayitzme&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayitzme&theme=tokyonight&layout=compact&langs_count=6)
 </div>
 
 <h3>Languages, Stacks and Tools:</h3>
