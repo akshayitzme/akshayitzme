@@ -1,23 +1,75 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Akshay</h1>
+<!-- Heading -->
+<div>
+ <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />&nbsp;Hi there !</h1>
+ </p>
+</div>
 
-<p> 🔰  CS Student & Tech Enthusiast.</p>
-<p> 🔰  Learning Coding Thru Coding 👨🏼‍💻.</p>
-<p> ❗️  Can't Code without Music 🎶 .</p>
-<p> 💫 "Making Mistakes is Better than Faking Perfections."<p>
-<p><b>Reach Me On,</b></p>
-<a href="https://t.me/coderitzme"><img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="60px"/></a>
+<!-- Badges -->
+<div align="center">
+	<img src="https://img.shields.io/badge/%F0%9F%8E%B5%20MUSIC-always-blueviolet" />
+	<img src="https://img.shields.io/badge/👨‍💻️coding__is-life-blueviolet" />
+	<img src="https://gpvc.arturio.dev/akshayitzme"/>
+</div>
 
-<p align="right">
- <p align="right">Know Something of,</p>  
- <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="40px" align="right" alt="mysql">
- <img src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" align="right" width="30px" alt="laravel">
- <img src="https://www.php.net/images/logos/new-php-logo.svg" align="right" width="40px" alt="php">
- <img src="https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" align="right" width="30px" alt="react">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" align="right" width="55px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" align="right" width="25px" alt="js">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" align="right" width="25px" alt="bootstrap">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" align="right" width="20px" alt="css3">
- <img src="https://cdn.freebiesupply.com/logos/large/2x/html5-logo-png-transparent.png" alt="html5" align="right" width="20px">
- <img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" align="right" width="30px">
-<img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" align="right" width="30px" alt="c++">
-</p>
+<!-- Paragraph -->
+<p>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  
+
+<!-- Contact -->
+<h3>Find me on,</h3>
+	<code>
+	 <a href="https://t.me/coderitzme"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width=30/></a>
+	 </code>
+	  &nbsp;
+	<code>
+	 <a href="https://instagram.com/akshayitzme"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width=30/></a>
+ </code>
+ 	  &nbsp;
+	<code>
+	 <a href="https://instagram.com/coderitzme"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width=30/></a>
+ </code>
+ 	  &nbsp;
+	<code>
+	 <a href="https://linkedin.com/in/akshayitzme"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=30/></a>
+ </code>
+
+<!-- Stats -->
+<h3>Stats</h3>
+<div>
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayitzme&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayitzme&theme=tokyonight&layout=compact)
+</div>
+
+<h3>Languages, Stacks and Tools</h3>
+<div>
+<img src="https://img.shields.io/badge/javascript-efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-356a97.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Go-00a7d0.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/php-7377ad.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/C++-0076f7.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/html-f4470b.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+</div>
+
+<div>
+	<img src="https://img.shields.io/badge/react-212121.svg?&style=for-the-badge&logo=react&logoColor=79d8f7" height="25"/>
+	<img src="https://img.shields.io/badge/node-3e843d.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/express-212121.svg?&style=for-the-badge&logo=express&logoColor=79d8f7" height="25"/>
+	<img src="https://img.shields.io/badge/laravel-e9372c.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/django-092d1f.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
+</div>
+
+<div>
+	<img src="https://img.shields.io/badge/tailwindcss-06b0cd.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/bootstrap-53397a.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/materialui-0284ca.svg?&style=for-the-badge&logo=materialui&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/sass-c76395.svg?&style=for-the-badge&logo=sass&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/photoshop-08004c.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=2fa3f7" height="25"/>
+</div>
+
+<div>
+	<img src="https://img.shields.io/badge/mysql-42759c.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/vscode-006eab.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/>		
+	<img src="https://img.shields.io/badge/firefox-f53c23.svg?&style=for-the-badge&logo=firefox&logoColor=white" height="25"/>	
+	<img src="https://img.shields.io/badge/manjaro-32c05c.svg?&style=for-the-badge&logo=manjaro&logoColor=white" height="25"/>	
+	<img src="https://img.shields.io/badge/spotify-1ccc5b.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="25"/>	
+</div>
