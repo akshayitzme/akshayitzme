@@ -37,7 +37,6 @@
 <div>
 	
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayitzme&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true)
-	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayitzme&theme=tokyonight&layout=compact)
 	
 </div>
