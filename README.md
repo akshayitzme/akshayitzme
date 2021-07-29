@@ -1,8 +1,6 @@
 <!-- Heading -->
-<div>
  <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />&nbsp;Hi there !</h1>
- </p>
-</div>
+
 
 <!-- Badges -->
 <div align="center">
