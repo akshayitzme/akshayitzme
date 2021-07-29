@@ -1,7 +1,6 @@
 <!-- Heading -->
  <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />&nbsp;Hi there !</h1>
 
-
 <!-- Badges -->
 <div align="center">
 	<img src="https://img.shields.io/badge/%F0%9F%8E%B5%20MUSIC-always-blueviolet" />
@@ -34,7 +33,7 @@
 <h3>Stats:</h3>
 <div>
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayitzme&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayitzme&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayitzme&theme=tokyonight&layout=compact)
 </div>
 
