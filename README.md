@@ -32,10 +32,13 @@
 <!-- Stats -->
 <h3>Stats:</h3>
 
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshayitzme&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayitzme&theme=tokyonight" />
+<img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=akshayitzme&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayitzme&theme=tokyonight" />
 </div>
+
+
 
 <h3>Languages, Stacks and Tools:</h3>
 
