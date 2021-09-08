@@ -30,6 +30,7 @@
 	 <a href="https://linkedin.com/in/akshayitzme"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=30/></a>
  </code>
 
+<hr/>
 <!-- Stats -->
 <h3>Stats:</h3>
 
@@ -39,11 +40,11 @@
 <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayitzme&theme=tokyonight" />
 </div> 
 
-<br/>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshayitzme&theme=tokyonight&langs_count=5">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshayitzme&theme=tokyonight&langs_count=5">
 </div>
 
+<hr/>
 <h3>Languages, Stacks and Tools:</h3>
 
 <div align="center">
