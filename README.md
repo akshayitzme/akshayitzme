@@ -1,3 +1,4 @@
+
 <!-- Heading -->
  <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />&nbsp;Hi there !</h1>
 
@@ -38,6 +39,10 @@
 <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayitzme&theme=tokyonight" />
 </div> 
 
+<br/>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akshayitzme&theme=tokyonight&langs_count=5">
+</div>
 
 <h3>Languages, Stacks and Tools:</h3>
 
