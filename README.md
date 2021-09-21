@@ -13,8 +13,8 @@
 <img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width=300 align="left"/>
 
 <!-- Paragraph -->
-<div align=""right>
-<br/><h4><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></h4> </div>
+<div align="right">
+<h4 align="left"><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></h4> </div>
 </div> 
 
 <!-- Contact -->
