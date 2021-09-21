@@ -1,4 +1,3 @@
-
 <!-- Heading -->
  <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />&nbsp;Hi there !</h1>
 
@@ -8,12 +7,15 @@
 	<img src="https://img.shields.io/badge/👨‍💻️coding__is-life-blueviolet" />
 	<img src="https://gpvc.arturio.dev/akshayitzme"/>
 </div>
-<!-- Image -->
-<img src="./images/code.gif"/>
 
-<br/>
+<div>
+<!-- Image -->
+<img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width=300 align="left"/>
+
 <!-- Paragraph -->
-<h4><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></h4>
+<div align=""right>
+<h4><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></h4> </div>
+</div> 
 
 <!-- Contact -->
 <h3>Find me on:</h3>
@@ -32,7 +34,7 @@
 	<code>
 	 <a href="https://linkedin.com/in/akshayitzme"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=30/></a>
  </code>
-
+<br/><br/><br/><br/>
 <hr/>
 <!-- Stats -->
 <h3>Stats:</h3>
