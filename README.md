@@ -10,7 +10,7 @@
 
 <div>
 <!-- Image -->
-<img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width=300 align="left"/>
+<img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width=310 align="left"/>
 
 <!-- Paragraph -->
 <div align="right">
