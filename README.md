@@ -34,7 +34,9 @@
 	<code>
 	 <a href="https://linkedin.com/in/akshayitzme"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=30/></a>
  </code>
-<br/><br/><br/><br/>
+<br/><br/>
+<img src="https://img.shields.io/badge/bitcoin-36dxmSQiMjoc42ZLUH3AYrgtfGNLV2TWAD-blue"/>
+<br/><br/><br/>
 <hr/>
 <!-- Stats -->
 <h3>Stats:</h3>
