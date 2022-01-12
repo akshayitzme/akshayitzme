@@ -15,7 +15,7 @@
 <!-- Paragraph -->
 <div align="right">
 <br/><h4 align="left"><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></h4> </div>
-</div> 
+</div> 6
 
 <!-- Contact -->
 <h3>Find me on:</h3>
@@ -48,7 +48,7 @@
 </div> 
 
 <div align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshayitzme&theme=tokyonight&langs_count=5">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshayitzme&theme=tokyonight&langs_count=6">
 </div>
 
 <hr/>
