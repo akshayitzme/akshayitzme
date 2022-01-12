@@ -15,7 +15,7 @@
 <!-- Paragraph -->
 <div align="right">
 <br/><h4 align="left"><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></h4> </div>
-</div> 6
+</div> 
 
 <!-- Contact -->
 <h3>Find me on:</h3>
