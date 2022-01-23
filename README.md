@@ -12,6 +12,8 @@
 <!-- Image -->
 <img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width=310 align="left"/>
 
+<p>USDT [ TRON ] - TLoxE6Rs1c7RxqjRUPTRLscNpfB124t7TD </p>
+	
 <!-- Paragraph -->
 <div align="right">
 <br/><h4 align="left"><b>I'm Akshay. Self taught Developer and a curious learner. I explore anything that interests me. Let's see where this vibe is gonna take me 😉  </b></h4> </div>
@@ -35,7 +37,7 @@
 	 <a href="https://linkedin.com/in/akshayitzme"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=30/></a>
  </code>
 <br/><br/>
-<img src="https://img.shields.io/badge/bitcoin-36dxmSQiMjoc42ZLUH3AYrgtfGNLV2TWAD-blue"/>
+
 <br/><br/><br/>
 <hr/>
 <!-- Stats -->
