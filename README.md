@@ -11,8 +11,9 @@
 <div>
 <!-- Image -->
 <img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width=310 align="left"/>
-
-<p>USDT [ TRON ] - TLoxE6Rs1c7RxqjRUPTRLscNpfB124t7TD </p>
+USDT [ TRON ] - TLoxE6Rs1c7RxqjRUPTRLscNpfB124t7TD <br>
+BTC [ BTC ] - 18sivExKy7wBe5baYtJHaaq2TwJaRMipfG <br>
+BNB [ BSC ] - 0xe5fdddb6842f877d2921d40b3e8b3ff43c572455 
 	
 <!-- Paragraph -->
 <div align="right">
