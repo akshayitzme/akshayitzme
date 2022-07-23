@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width="50%" align="left">
+  <img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width="45%" align="left">
   <div align="center">
     <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></img>
     <p><b>🚶 introvert  |  INFJ-T 🥷</b></p>
