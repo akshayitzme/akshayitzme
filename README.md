@@ -20,7 +20,6 @@
     <p><b>☕️ i drink coffee & watch many movies 🎬</b></p>
   </div>
   
-  <br/>
   <div align="center">
     <a href="https://linkedin.com/in/akshayitzme" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="35px" alt="akshayitzme - linkedin"/></a>
     &nbsp;&nbsp;<a href="https://t.me/coderitzme" target="_blank"><img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="35px" alt="coderitzme - telegram"/></a>
