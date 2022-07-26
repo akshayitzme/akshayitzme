@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/sass-c76395.svg?&style=for-the-badge&logo=sass&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Canva-5636e1.svg?&style=for-the-badge&logo=canva&logoColor=fff" height="25"/>
   <img src="https://img.shields.io/badge/photoshop-08004c.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=2fa3f7" height="25"/>
-  <img src="https://img.shields.io/badge/Premier Pro-280031.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=de71f2" height="25"/>
+  <img src="https://img.shields.io/badge/Premiere Pro-280031.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=de71f2" height="25"/>
   <img src="https://img.shields.io/badge/Lightroom-001c33.svg?&style=for-the-badge&logo=adobelightroom&logoColor=2f9ff2" height="25"/>
   
   <p></p>
