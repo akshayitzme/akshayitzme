@@ -41,6 +41,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![@akshayitzme's Holopin board](https://holopin.io/api/user/board?user=akshayitzme)](https://holopin.io/@akshayitzme)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
   <p><b>Langs:&nbsp;&nbsp;</b></p>
