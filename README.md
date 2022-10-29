@@ -18,6 +18,7 @@
     <p><b>👨‍💻️ self taught programmer & a curious coder 🕵</b></p>
     <p><b>💜 love to learn new things & do hobby projects ⚡</b></p>
     <p><b>☕️ i drink coffee & watch many movies 🎬</b></p>
+    <p><b>🥷 Legends say, the well written code is still in Private Repo 🔒</b></p>
   </div>
   
   <div align="center">
