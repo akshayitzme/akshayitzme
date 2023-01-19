@@ -49,6 +49,7 @@
 <div>
   <p><b>Langs:&nbsp;&nbsp;</b></p>
   <img src="https://img.shields.io/badge/javascript-efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/typescript-2f74c0.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/python-356a97.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Go-00a7d0.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Java-00a7d0.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/>
@@ -61,6 +62,7 @@
   <p></p>
   <p><b>Frameworks & Libraries:&nbsp;&nbsp;</b></p>
   <img src="https://img.shields.io/badge/react-212121.svg?&style=for-the-badge&logo=react&logoColor=79d8f7" height="25"/>
+  <img src="https://img.shields.io/badge/vue-23303d.svg?&style=for-the-badge&logo=vuedotjs&logoColor=79d8f7" height="25"/>
   <img src="https://img.shields.io/badge/django-092d1f.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/react native-212121.svg?&style=for-the-badge&logo=react&logoColor=79d8f7" height="25"/>
   <img src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
