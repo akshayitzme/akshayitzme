@@ -2,4 +2,4 @@
 
 <br/>
 <p>🔨 &nbsp;&nbsp;Maintaining <a href="https://github.com/frappe/books">Frappe Books</a>.</p>
-<p>💼 &nbsp;&nbsp;Lead Developer at <a href="https://www.uprootsecurity.com">UprootSecurity</a>.</p>
+<!-- <p>💼 &nbsp;&nbsp;Lead Developer at <a href="https://www.uprootsecurity.com">UprootSecurity</a>.</p> -->
