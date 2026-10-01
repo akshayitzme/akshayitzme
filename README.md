@@ -16,10 +16,10 @@
 
 ![Personal Contributions](https://ghchart.rshah.org/akshayitzme)
 
-### UprootSecurity
+### [UprootSecurity](https://github.com/akshay-uproot)
 
 ![Uproot Contributions](https://ghchart.rshah.org/akshay-uproot)
 
-### LYMData
+### [LYMData](https://github.com/akshay-lym)
 
 ![Lym Contributions](https://ghchart.rshah.org/akshay-lym)
